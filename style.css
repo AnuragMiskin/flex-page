@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+.header-logo{
+    display: flex;
+    justify-content: space-around;
+}
+ul{
+    display: flex;
+    padding: 0;
+    margin: 0;
+    gap: 16px;
+}
+.header-body{
+    display: flex;
+    justify-content: space-around;
+}
+.about{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+button{
+    flex: 0px 0px 0px;
+}
