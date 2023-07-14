@@ -33,7 +33,7 @@ a{
 }
 .header-body{
     display: flex;
-    justify-content: space-around;
+    justify-content:center;
 }
 h1{
     font-size: 48px;
@@ -44,7 +44,8 @@ h1{
 .about{
     display: flex;
     flex-direction: column;
-    max-width: 480px;
+    width: 500px;
+    padding-right: 150px;
 }
 span{
     font-size: 18px;
