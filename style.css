@@ -133,3 +133,14 @@ img{
     font-size: 18px;
     color: #efe7eb;
 }
+.footer{
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+}
+.copy{
+    font-size: 18px;
+    color: #efe7eb;
+    padding: 32px;
+    text-transform: capitalize;
+}
