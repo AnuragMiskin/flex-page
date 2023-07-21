@@ -33,7 +33,7 @@ a{
 }
 .header-body{
     display: flex;
-    justify-content:center;
+    justify-content:space-around;
 }
 h1{
     font-size: 48px;
